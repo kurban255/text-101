@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b299683b6238a41debe933fb0016a8f3, type: 3}
+  m_Name: A0. Wprowadzenie
+  m_EditorClassIdentifier: 
+  storyText: "Witaj w grze tekstowej.\n\nNa ka\u017Cdym etapie zobaczysz opis sytuacji
+    i bedziesz m\xF3g\u0142 wybra\u0107 dalsze wydarzenia wciskaj\u0105c 1,2 lub 3.\n\nWci\u015Bnij
+    1 \u017Ceby kontynuowa\u0107..."
+  nextStates:
+  - {fileID: 11400000, guid: f91c07c8f61e84eb89aa92fa59e9f07e, type: 2}

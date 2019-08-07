@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b299683b6238a41debe933fb0016a8f3, type: 3}
+  m_Name: "A1. Cela wie\u0328zienna"
+  m_EditorClassIdentifier: 
+  storyText: "Budzisz si\u0119 w wi\u0119zieniu. Czujesz tward\u0105 prycz\u0119 pod
+    plecami. \u015Aciany s\u0105 kamienne, troch\u0119 wilgotne. W pomieszczeniu nie
+    ma \u017Cadnego okna. S\u0105 tylko ci\u0119\u017Ckie zamykane pneumatycznie drzwi.\n\nCo
+    chcesz zrobi\u0107?\n1. Przyjrzyj si\u0119 drzwiom.\n2. Zawo\u0142aj stra\u017Cnika."
+  nextStates:
+  - {fileID: 11400000, guid: 3a51e3a7d99c443bd9f751a4878d31dc, type: 2}
+  - {fileID: 11400000, guid: 5e86b0e2cf465498388e2a96f6ad7cb1, type: 2}
